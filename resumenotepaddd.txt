@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>my resume</title>
+</head>
+<body>
+<h2>M.Joni Manju</h2>
+<h4>D/O.C.Maria Davidson</h4>
+<h4>3-7 Kulappadu,</h4>
+<h4>Konamkadu post(629803)</h4>
+<h4>Kanniyakumari ditrict,</h4>
+<h4>Tamilnadu</h4>
+<h4><b>email id:</b>jonimanju1@gmail.com</h4>
+<h4>phone no:8489303557</h4>
+<hr></hr>
+<h2><b>objective:</b></h2>
+<p><h4>To work in an organization where i can establish my skill and knowledge and also work towards the growth of the orgnizational objective.</h4></p>
+<b><h2>Educational qualification:</h2></b>
+<center><table border="1"></center>
+<tr>
+<td><b>Examination</b></td>
+<td><b>Discipline</b></td>
+<td><b>Schools/College</b></td>
+<td><b>Year of Passing</b></td>
+<td><b>Percentage</b></td>
+</td>
+</tr>
+<tr>
+<td>MA</td>
+<td>English</td>
+<td>Lekshmipuram college of arts and science,Neyyoor</td>
+<td>2021</td>
+<td>84%</td>
+</tr>
+<tr>
+<td>BA</td>
+<td>English</td>
+<td>Lekshmipuram college of arts and science,Neyyoor</td>
+<td>2019</td>
+<td>71%</td>
+</tr>
+<tr>
+<td>HSC</td>
+<td>Maths Biology</td>
+<td>Rc.Hr.Sec.School,Konamkadu</td>
+<td>2016</td>
+<td>83%</td>
+</tr>
+<tr>
+<td>SSLC</td>
+<td>General</td>
+<td>Rc.Hr.Sec.School,Konamkadu</td>
+<td>2014</td>
+<td>93%</td>
+</tr>
+</table></center>
+<h2>Experience:</h2>Fresher
+<h2>certificates:</h2>
+<ul>
+<li>Thulir Student Scientific Awarness Talent Test2013(second grade)</li>
+<li>Friends of Police(certificate of appreciation)</li>
+</ul>
+<ul><h4>strength:</h2>
+<li>Dedicated</li>
+<li>Honest</li></ul>
+<ul><h4>weakness:</h2>
+<li>Fear</li>
+<li>Shy</li></ul>
+<h2>skills:</h2>
+<ul><li>Microsoft word,Excel.</li>
+<li>Typewriting English Junior.</li>
+</ul>
+<h2>Hobbies:</h2>
+<ul>
+<li>listening music</li>
+<li>gardenig</li>
+<li>cooking</li>
+</ul>
+<h2>Personal Details:</h2>
+<ol><h4><li><b>Name:</b>M.Joni Manju</h4></li>
+<li><h4><b>Father name:</b>C.Maria Davidson<h4></li>
+<li><h4><b>Date of Birth:</b>13/06/1999<h4></li>
+<li><h4><b>Nationality:</b>Indian<h4></li>
+<li><h4><b>Marital status:</b>single<h4></li>
+<li><h4><b>Gender:</b>female<h4></li>
+<li><h4><b>Languages Known:</b>Tamil,English<h4></li>
+<li><h4><b>Permanant address:</b></h4><h4></ol>
+<ul><li>3-7AKulappadu,</li>
+</li>Konamkadu post(629803)</li>
+<li>kanniyakumari district,</li>
+<li>India</li>
+</ul>
+<h2>Declaration:</h2>
+<p> I herby declare that all the details furnished above are true to the best of my knowledge and belief.
+</p>
+<h4>Yours Sincerely,</h4>
+M.Joni Manju.
+</table>
+</body>
+</html>
